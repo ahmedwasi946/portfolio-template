@@ -11,7 +11,7 @@ const portfolioData = {
     email: "[ahmedwasi4407@gmail.com](mailto:ahmedwasi4407@gmail.com)",
     linkedin: "[https://www.linkedin.com/in/syed-ahmed-wasi-244159402](https://www.linkedin.com/in/syed-ahmed-wasi-244159402)",
     github: "[https://github.com/ahmedwasi946](https://github.com/ahmedwasi946)",
-    githubHandle: "ahmedwasi946",
+    githubHandle: "Syed Ahmed Wasi",
     linkedinHandle: "Syed Ahmed Wasi",
     leetcode: "[https://leetcode.com/u/MA1rzlmbxH/](https://leetcode.com/u/MA1rzlmbxH/)",
     gfg: "",
@@ -28,7 +28,7 @@ const portfolioData = {
     Frameworks: ["Spring Boot"],
     Databases: ["MySQL"],
     "Cloud / DevOps": ["Azure", "AWS" ],
-    Tools: ["Git", "GitHub"],
+    Tools: ["GitHub"],
     "Soft Skills": ["Event Management"]
   },
   experience: [
