@@ -28,7 +28,7 @@ const portfolioData = {
     Frameworks: ["Spring Boot"],
     Databases: ["MySQL"],
     "Cloud / DevOps": ["Azure", "AWS" ],
-    Tools: ["GitHub"],
+    Tools: ["GitHub" ],
     "Soft Skills": ["Event Management"]
   },
   experience: [
