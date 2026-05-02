@@ -50,9 +50,8 @@ const portfolioData = {
       location: "Bhopal",
       description: "Managing technical events and training programs for the community.",
       highlights: [
-        "Overseeing community growth and educational outreach.",
-        "Coordinating between trainers and participants for seamless event execution."
-      ],
+        "Overseeing community growth and educational outreach."
+       ],
       link: "[View Community](https://github.com/ahmedwasi946)"
     }
   ],
